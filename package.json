@@ -1,8 +1,8 @@
 {
-    "name": "CoolTown-Launcher",
+    "name": "cooltown-launcher",
     "preductname": "CoolTown Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "version": "1.0.1",
+    "description": "Launcher Minecraft pour le serveur CoolTown",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, LouLou858, Inc.",
